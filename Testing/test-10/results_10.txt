@@ -1,0 +1,88 @@
+Your content: 
+['B3 Stake', 'X..', '...', '.O.']
+
+Gold Standard: 
+['B3 Stake', 'X..', '...', '.O.']
+
+Test Case:  1  PASSED
+
+Your content: 
+['B3 Stake', '..XX.', '..XOX', '.X.O.', '..OO.', '.....']
+
+Gold Standard: 
+['B3 Stake', '..XX.', '..XOX', '.X.O.', '..OO.', '.....']
+
+Test Case:  2  PASSED
+
+Your content: 
+['C3 Raid', '..XX.', '..XOX', '..XX.', '..XO.', '.....']
+
+Gold Standard: 
+['C3 Raid', '..XX.', '..XOX', '..XX.', '..XO.', '.....']
+
+Test Case:  3  PASSED
+
+Your content: 
+['A1 Stake', 'X.....', '......', '......', '......', '......', '......']
+
+Gold Standard: 
+['A1 Stake', 'X.....', '......', '......', '......', '......', '......']
+
+Test Case:  4  PASSED
+
+Your content: 
+['F4 Stake', '......', '......', '......', '.....O', '......', '......']
+
+Gold Standard: 
+['F4 Stake', '......', '......', '......', '.....O', '......', '......']
+
+Test Case:  5  PASSED
+
+Your content: 
+['E1 Raid', '...OOO', '......', '......', '......', '......', '......']
+
+Gold Standard: 
+['E1 Raid', '...OOO', '......', '......', '......', '......', '......']
+
+Test Case:  6  PASSED
+
+Your content: 
+['F6 Stake', '...X.O', '......', '......', '......', '......', '.....O']
+
+Gold Standard: 
+['F6 Stake', '...X.O', '......', '......', '......', '......', '.....O']
+
+Test Case:  7  PASSED
+
+Your content: 
+['A1 Stake', 'X..X', 'X..X', 'O..O', '...O']
+
+Gold Standard: 
+['A1 Stake', 'X..X', 'X..X', 'O..O', '...O']
+
+Test Case:  8  PASSED
+
+Your content: 
+['A2 Raid', 'X..', 'XX.', '...']
+
+Gold Standard: 
+['A2 Raid', 'X..', 'XX.', '...']
+
+Test Case:  9  PASSED
+
+Your content: 
+['C3 Stake', '.......', '.......', '..X....', '.......', '.......', '.......', '.......']
+
+Gold Standard: 
+['C3 Stake', '.......', '.......', '..X....', '.......', '.......', '.......', '.......']
+
+Test Case:  10  PASSED
+
+Number of Cases PASSED: 
+ 10
+Number of Cases FAILED: 
+ 0
+Number of EXCEPTIONS: 
+ 0
+TOTAL Number of Cases: 
+ 11
